@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25767
     wikipedia: http://en.wikipedia.org/wiki/Robert_F._Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30963#A-Knyght-Ther-Was
 gutenberg_issued: '2010-01-14'
 gutenberg_type: Text
 identifiers:
